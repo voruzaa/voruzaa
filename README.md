@@ -1,4 +1,4 @@
-<h1 align="center">📌 I'm Voruza (IRL: Forza),</h1>
+<h1 align="center">📌 I'm Forza (AKA: Voruza),</h1>
 <h3 align="center">🟦🟥 Currently a 2nd year CSUI Student.</h3>
 
 <h3 align="left">Connect with me:</h3>
